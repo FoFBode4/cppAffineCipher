@@ -1,0 +1,1 @@
+Enter the X and y values, then the string that you want to encrypt or decrypt.  The program will then give an option to pick between encrypting/decrypting.
